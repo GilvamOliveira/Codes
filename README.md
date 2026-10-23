@@ -2,6 +2,10 @@
 
 Exercícios e anotações de estudo em Python, organizados por aula.
 
+## Curso
+
+Conteúdo desenvolvido durante o curso [Python na Udemy](https://www.udemy.com/share/101ufc3@HIvpS96XiVDqIV2xZSY_U1V2fe9CvD4n-zGx8ZJJg_qFAJyTnYiG7IFfMLiWPvzjwA==/).
+
 ## Conteúdo
 
 | Aula | Tema |
