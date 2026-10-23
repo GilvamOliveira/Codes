@@ -4,7 +4,9 @@ Exercícios e anotações de estudo em Python, organizados por aula.
 
 ## Curso
 
-Conteúdo desenvolvido durante o curso [Python na Udemy](https://www.udemy.com/share/101ufc3@HIvpS96XiVDqIV2xZSY_U1V2fe9CvD4n-zGx8ZJJg_qFAJyTnYiG7IFfMLiWPvzjwA==/).
+Repositório de estudos baseado no curso [Curso de Python 3 do básico ao avançado - com projetos reais](https://www.udemy.com/share/101ufc3@HIvpS96XiVDqIV2xZSY_U1V2fe9CvD4n-zGx8ZJJg_qFAJyTnYiG7IFfMLiWPvzjwA==/), ministrado por Luiz Otávio Miranda e Tales Calogi Malaquias na Udemy.
+
+O conteúdo original, os enunciados e o material didático pertencem aos instrutores. As anotações, adaptações e soluções registradas aqui foram escritas por mim durante o curso.
 
 ## Conteúdo
 
@@ -39,4 +41,4 @@ python Curso_Codes_Py/Lesson1_DocString.py
 
 ---
 
-Autor: Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/) · [GitHub](https://github.com/GilvamOliveira)
+Repositório organizado por Gilvam Oliveira · [LinkedIn](https://www.linkedin.com/in/gilvam-oliveira/) · [GitHub](https://github.com/GilvamOliveira)
